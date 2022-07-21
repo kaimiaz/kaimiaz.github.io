@@ -241,7 +241,6 @@
       style: basic
       url: https://cn.udacity.com/
 
-
   - name: 娱 乐
     links:
     - name: ⢰优酷
@@ -290,10 +289,6 @@
       style: basic
       url: https://movie.douban.com/
 
-    - name: FIX
-      style: yellow
-      url: http://www.zimuxia.cn/%E6%88%91%E4%BB%AC%E7%9A%84%E4%BD%9C%E5%93%81
-
     - name: 弯弯
       style: blue
       url: http://wanwansub.com/node/139
@@ -306,17 +301,13 @@
       style: orange
       url: https://agmov.com/
 
-    - name: 猪猪
-      style: purple
-      url: http://www.zzrbl.com/
-
     - name: TNH
       style: basic
       url: https://www.tokyonothot.com/
 
-     - name: 幻樱
-       style: pink
-       url: http://www.hysub.net/
+    - name: 幻樱
+      style: pink
+      url: http://www.hysub.net/
 
     - name: 斗鱼
       style: orange
@@ -463,9 +454,7 @@
       url: https://www.sojson.com/web/img.html
       
     - name: 🛠工具邦
-
       style: basic
-
       url: https://cn.piliapp.com
 
     - name: 📬微软邮箱
