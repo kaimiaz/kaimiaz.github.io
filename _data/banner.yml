@@ -1,0 +1,9 @@
+message:
+  show: true
+  hitokoto: true
+  content: 耶稣爱你
+  detail: 主内平安
+  color: black
+  icon: swimmer
+  image: false
+  link: https://www.zanmeishi.com/

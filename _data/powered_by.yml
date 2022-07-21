@@ -1,0 +1,5 @@
+- name: Jekyll
+  url: https://jekyllrb.com/
+
+- name: Hitokoto
+  url: https://hitokoto.cn/api
